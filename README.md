@@ -19,38 +19,40 @@
 请按照以下步骤操作 🎈
 
 1. **克隆项目到本地**：
-    ```
-    git clone https://github.com/kukuqi666/shaoshuai.git
-    ```
+     ```
+     git clone https://github.com/kukuqi666/shaoshuai.git
+     ```
 	
-2.**创建虚拟环境**：
+2. **创建虚拟环境**：
     避免和本地的安装的模块冲突：
 	
     ```
-	cd shaoshuai
-	```
+    cd shaoshuai
+    ```
 
-	```
-	python -m venv myenv
-	```
+    ```
+    python -m venv myenv
+    ```
 
-	```
-	.\myenv\Scripts\activate
-	```
+    ```
+    .\myenv\Scripts\activate
+    ```
 
-	```
-	python.exe -m pip install --upgrade pip	
-	```
+    ```
+    python.exe -m pip install --upgrade pip	
+    ```
 	
 	
-2. **安装依赖**：
+3. **安装依赖**：
     别担心！我们只需要用到几个库，轻松搞定：
 	
     ```
     pip install opencv-python PyQt5 numpy matplotlib
     ```
-3. **运行文件**：
-
+4. **运行文件**：
+   
+    pyqt5版本
+   
     ```
     python pyqt5.py
     ```
@@ -58,15 +60,15 @@
     matplotlib版本
 	
     ```
-	python matlab
-	```
-	ASCLL版本
+    python matlab
+    ```
+    ASCLL版本
 	
-	```
-	python major.py
+    ```
+    python major.py
 	
-	python major1.py
-	```
+    python major1.py
+    ```
 	
 ## 💡 使用说明
 - **空格键**：暂停或继续播放。
@@ -76,12 +78,13 @@
 ## 🛠 功能展示
 来看看我们精心制作的视频界面吧～ 🖼️
 
+### pyqt5
 ![播放器界面](https://gitee.com/kukuqi666/images/raw/master/201.png)
 
-
+### matplotlib
 ![matplotlib界面](https://gitee.com/kukuqi666/images/raw/master/200.png)
 
-
+### ASSCLL
 ![ASCLL](https://gitee.com/kukuqi666/images/raw/master/202.png)
 
 ## 🤔 未来计划
@@ -107,7 +110,7 @@
 ## 📫 联系我们
 如有任何问题或建议，请随时通过以下方式联系我们：
 - GitHub Issues 提问。
-- 给我们发邮件：kukuqi666@qq.com ✉️
+- 给我发邮件：kukuqi666@gmail.com ✉️
 
 ## 🌟 感谢你的支持
 如果你喜欢这个项目，不妨点一下 **Star** ⭐，让更多人看到它吧！
