@@ -1,9 +1,9 @@
 # 🎥 抖音少帅下飞机 🚀
 
-[![GitHub license](https://img.shields.io/github/license/Peyjee-W/sssfj)](https://github.com/kukuqi666/shaoshuai/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Peyjee-W/sssfj)](https://github.com/kukuqi666/shaoshuai/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Peyjee-W/sssfj)](https://github.com/kuukqi666/shaoshuai/network)
-[![GitHub issues](https://img.shields.io/github/issues/Peyjee-W/sssfj)](https://github.com/kukuqi666/shaoshuai/issues)
+[![GitHub license](https://img.shields.io/github/license/kukuqi666/shaoshuai)](https://github.com/kukuqi666/shaoshuai/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/kukuqi666/shaoshuai)](https://github.com/kukuqi666/shaoshuai/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kukuqi666/shaoshuai)](https://github.com/kuukqi666/shaoshuai/network)
+[![GitHub issues](https://img.shields.io/github/issues/kuukqi666/shaoshuai)](https://github.com/kukuqi666/shaoshuai/issues)
 
 欢迎来到 **少帅下飞机 视频轮廓检测** 项目！🎉
 
